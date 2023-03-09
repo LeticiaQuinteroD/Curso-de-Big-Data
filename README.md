@@ -5,7 +5,7 @@ En el primer ejercicio se practican las estructuras de datos y en el segundo los
 ## Sesión 2:
 En el primer ejercicio se practican los condicionaless y en el segundo los bucles.
 ## Sesión 3:
-
+Se muestra un ejercicio sobre programación funcional.
 ## Sesión 4:
 
 ## Sesión 5:
